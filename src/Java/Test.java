@@ -5,4 +5,7 @@ public class Test {
         System.out.print("git");
         System.out.print("see you  again");
     }
+    public static  int love(){
+        return 520;
+    }
 }
